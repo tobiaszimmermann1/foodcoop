@@ -1,5 +1,3 @@
-# foodcoop
-
 # About:
 Wordpress theme for foodcoops.
 
