@@ -1,8 +1,22 @@
 # foodcoop
-software for foodcoops based on wordpress and woocommerce
 
-test
+# About:
+Wordpress theme for foodcoops.
 
-1
-2
-3
+# Who is this for?
+For foodcoops who operate on a turn-based system, where members order in advance and goods are delivered on a specific date.
+
+# Features: 
+- Website
+- Forum
+- File sharing
+- Web shop, cusomized for foodcoops
+
+# Dependencies:
+- Wordpress (https://wordpress.org/)
+- Woocommerce Plugin (https://woocommerce.com/)
+- TeraWallet Plugin (https://wordpress.org/plugins/woo-wallet/)
+- Simple File List Plugin (https://simplefilelist.com/)
+- bbPress Plugin (https://de.wordpress.org/plugins/bbpress/)
+- Foodcoop Plugin
+
