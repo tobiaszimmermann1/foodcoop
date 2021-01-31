@@ -14,7 +14,6 @@ For foodcoops who operate on a turn-based system, where members order in advance
 - Wordpress (https://wordpress.org/)
 - Woocommerce Plugin (https://woocommerce.com/)
 - TeraWallet Plugin (https://wordpress.org/plugins/woo-wallet/)
-- Simple File List Plugin (https://simplefilelist.com/)
-- bbPress Plugin (https://de.wordpress.org/plugins/bbpress/)
+- wpForo Plugin (https://de.wordpress.org/plugins/bbpress/)
 - Foodcoop Plugin
 
