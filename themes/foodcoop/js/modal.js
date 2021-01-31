@@ -1,0 +1,1 @@
+jQuery(document).ready(function() {    jQuery(".modal-button").click(function() {       jQuery(this).parent(".service-box").find(".process-modal").show();    });    jQuery(".process-modal").click(function() {       jQuery(this).hide();    });});
